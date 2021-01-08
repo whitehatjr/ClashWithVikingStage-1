@@ -1,2 +1,2 @@
-# ClashWithVikingStage-1
-code for C24.
+Clash with the vikings
+Code for c24
